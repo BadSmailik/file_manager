@@ -1,0 +1,8 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(192, 192, 192, 0.897);
+}
+
+form {
+    box-shadow: 1px 1px 14px rgba(99, 99, 99, 0.726);
+}
